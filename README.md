@@ -10,7 +10,7 @@ Na prática de dados, isso significa ir além do dashboard: construo pipelines E
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Linguagens e Tecnologias
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
